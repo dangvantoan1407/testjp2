@@ -11,6 +11,7 @@ public class CustomerManage {
     public void run() {
         int choice;
         do {
+            System.out.println("--------Menu-------");
             System.out.println("Customer Relationship Management");
             System.out.println("1. Add new customer");
             System.out.println("2. Find by name");
